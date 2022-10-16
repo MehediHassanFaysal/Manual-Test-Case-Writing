@@ -18,7 +18,6 @@
 - Category dropdown
 - Product search functionality
 - Search box functionality
-- Search box functionality
 - Product functionality
 - Delivery 
 - Related product 
