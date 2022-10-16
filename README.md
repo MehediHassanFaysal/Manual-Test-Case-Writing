@@ -1,5 +1,5 @@
 # Test-Case-Writing
- ## 1. BanglaShoppers (url: https://www.banglashoppers.com/ )
+ ## 1. BanglaShoppers [Click](https://www.banglashoppers.com/) to see web
  ### Module Name: User Management
   #### Write Test Cases Feature on:
 - Registration 
