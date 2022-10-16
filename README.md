@@ -10,8 +10,8 @@
  ## 2. PURCHASE ([click](https://e-view.000webhostapp.com/) to see web)
   ### Modules: User Management, Navigation Menubar, Contents, Specific Product Ingredient 
    ##### Write Test Cases Feature on:
-- Registration 
-- Login
+- SignUp 
+- SignIn
 - Forgot password functionality 
 - NavBar logo functionality
 - Home button functionality
