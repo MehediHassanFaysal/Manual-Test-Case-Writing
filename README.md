@@ -1,2 +1,2 @@
 # Test-Case-Writing
-Test Case Writing (parts of Manual Testing)
+1. Test Case Writing (parts of Manual Testing)
