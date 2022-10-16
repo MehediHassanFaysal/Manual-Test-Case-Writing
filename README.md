@@ -7,7 +7,7 @@
 >[Click here](https://drive.google.com/file/d/1n1YLHFhUti6cvkbbxGFlzu89MezoIxZC/view?usp=sharing) to see Mind Map for BanglaShoppers 
 #### Also Write Test Plan For BanglaShoppers
  ## 2. PURCHASE ([click](https://e-view.000webhostapp.com/) to see web)
-  ### Module Name: User Management, Navigation Menubar, Contents, Specific Product Ingredient, 
+  ### Module Name: User Management, Navigation Menubar, Contents, Specific Product Ingredient 
    ##### Write Test Cases Feature on:
 - Registration 
 - Login
