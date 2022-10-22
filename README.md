@@ -16,7 +16,7 @@
 - NavBar logo functionality
 - Home button functionality
 - Category dropdown
-- Product search functionality
+- Functionality of clickable product
 - Search box functionality
 - Product functionality
 - Delivery 
