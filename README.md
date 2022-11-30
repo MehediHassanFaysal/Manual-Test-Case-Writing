@@ -6,6 +6,7 @@
 - Registration 
 - Login
 >[Click here](https://drive.google.com/file/d/1n1YLHFhUti6cvkbbxGFlzu89MezoIxZC/view?usp=sharing) to see Mind Map for BanglaShoppers 
+
 >[Click to review the test cases](https://docs.google.com/spreadsheets/d/1IWcL2KzMBsZ4q-MHAikqr8Jtn9_xlQfT/edit?usp=share_link&ouid=110212694347163662297&rtpof=true&sd=true)
 ### Also Write Test Plan For BanglaShoppers
  ## 2. PURCHASE ([click](https://e-view.000webhostapp.com/) to see web)
