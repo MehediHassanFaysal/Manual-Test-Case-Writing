@@ -1,5 +1,5 @@
 # Test-Case-Writing
- ## 1. [Prioshop](https://priyoshop.com/)
+ ## 1. [PriyoShop](https://priyoshop.com/)
   ### Modules: User Management, Product Management and Account Management
   ##### Write Test Cases Feature on:
 - Registration 
