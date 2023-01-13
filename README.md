@@ -1,5 +1,20 @@
 # Test-Case-Writing
- ## 1. [BanglaShoppers](https://www.banglashoppers.com/)
+ ## 1. Prioshop ([click](https://priyoshop.com/)
+  ### Modules: User Management, Product Management and Account Management
+  ##### Write Test Cases Feature on:
+- Registration 
+- Login
+- Searching product 
+- Shopping Cart
+- Checkout
+- Buy Now
+- Order
+- My Account
+>[Review the testCases](https://docs.google.com/spreadsheets/d/1wMjq-9GjA5ylVFUqt6Y2uq4LjyBxjC64/edit?usp=share_link&ouid=110212694347163662297&rtpof=true&sd=true)
+
+>[Click here](https://drive.google.com/file/d/17jHkSRC-y9g1BAveSI5YQCMWMVJoERDT/view?usp=share_link) to see MindMap for Prioshop 
+
+ ## 2. [BanglaShoppers](https://www.banglashoppers.com/)
  ### Module Name: User Management
  #### Environment: Production
   ##### Write Test Cases Feature on:
@@ -9,7 +24,8 @@
 
 >[Click to review the test cases](https://docs.google.com/spreadsheets/d/1IWcL2KzMBsZ4q-MHAikqr8Jtn9_xlQfT/edit?usp=share_link&ouid=110212694347163662297&rtpof=true&sd=true)
 ### Also Write Test Plan For BanglaShoppers
- ## 2. PURCHASE ([click](https://e-view.000webhostapp.com/) to see web)
+
+ ## 3. PURCHASE ([click](https://e-view.000webhostapp.com/) to see web)
   ### Modules: User Management, Navigation Menubar, Contents, Specific Product Ingredient 
    ##### Write Test Cases Feature on:
 - SignUp 
