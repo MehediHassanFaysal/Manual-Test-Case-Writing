@@ -1,0 +1,17 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Manual-TC-DOC-Public
+  description: Manual testing
+  annotations:
+    backstage.io/techdocs-ref: url:https://github.com/MehediHassanFaysal/Manual-Test-Case-Writing/tree/main
+  links:
+    - url: https://sites.google.com/view/faysal515
+      title: My Portfolio
+      icon: dashboard
+spec:
+  type: service
+  lifecycle: production
+  owner: user:Manual-Tester
+  system: Manual-SYS
+  providesApis: [API-SQA]
