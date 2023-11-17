@@ -15,5 +15,5 @@ spec:
   owner: user:Manual-Tester
   system: Manual-SYS
  dependsOn:
-    - component:default/Manual-TC-DOC
+    - component: default/Manual-TC-DOC
   providesApis: [API-SQA]
