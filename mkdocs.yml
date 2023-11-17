@@ -1,0 +1,10 @@
+site_name: Manual-Test-Doc
+site_description: manual-test
+repo_url: https://github.com?owner=MehediHassanFaysal&repo=Manual-Test-Case-Writing
+edit_uri: https://github.com/MehediHassanFaysal/Manual-Test-Case-Writing/blob/main/docs
+
+nav:
+  - Document: index.md
+
+plugins:
+  - techdocs-core
