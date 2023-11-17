@@ -15,5 +15,5 @@ spec:
   owner: user:Manual-Tester
   system: Manual-SYS
   dependsOn: 
-    -  Manual-TC-DOC
+    - Manual-TC-DOC
   providesApis: [API-SQA]
