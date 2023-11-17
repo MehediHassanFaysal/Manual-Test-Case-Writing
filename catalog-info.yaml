@@ -14,5 +14,6 @@ spec:
   lifecycle: production
   owner: user:Manual-Tester
   system: Manual-SYS
-  dependsOn: [Manual-TC-DOC]
+  dependsOn: 
+    - component: Manual-TC-DOC
   providesApis: [API-SQA]
